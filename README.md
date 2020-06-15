@@ -1,2 +1,41 @@
-# haikuwithme
-Haiku With Me (HWM) is a web app that teaches the art of haiku writing.
+### haikuwithme
+Haiku With Me (HWM) is a web app that teaches you how to write haiku and store your haikus online.
+
+# Tech Stack- Web App with full CRUD using Node.js, Express, EJS and Mongo, deployed to Heroku
+
+# Prerequisites
+JavaScript
+Express / Node
+EJS
+Mongo
+
+# Expected Functionality (MVP)
+- User can learn how to write haikus with the haiku helper.
+- User can add/edit/delete haikus on web app
+- User can view their haikus on the Haiku Wall
+
+# Index Page ("The Haiku Wall")
+The app should have a wall page (graffi-like inspired by the Lennon Wall) where
+all the haikus are displayed
+
+# Show Page
+Show page should display a haiku with a link back to the Wall Page, a link to edit (goes to the edit page), a delete button that deletes the haiku.
+
+# Edit & New Page
+These views should render forms and submit to the appropriate routes.
+
+# Redirects
+The create route should redirect to the index.
+
+The delete route should redirect to the index.
+
+The update route will redirect back to the quote's show page.
+
+# Static Pages
+Content on haiku
+
+MVC Model
+-placeholder-
+
+Restful Routes (CRUD)
+-placeholder-
