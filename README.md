@@ -1,5 +1,5 @@
 ### haikuwithme
-Haiku With Me (HWM) is a web app that teaches you how to write haiku poetry and store your haikus online.
+Haiku With Me (HWM) is a web app that teaches you how to write haiku poetry.
 
 # What is Haiku?
 Haiku is a style of poetry originated from Japan.
