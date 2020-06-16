@@ -8,7 +8,7 @@ See: https://en.wikipedia.org/wiki/Haiku
 # Why Haiku?
 Haiku peoms are terse, elegant & descriptive, just like good clean code.
 
-Learning & writing haiku will help a coder in writing elegant clean code. :)
+Learning & writing haiku will help a coder write better elegant clean code. :)
 
 # One Haiku Poem
 
