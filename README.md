@@ -1,3 +1,19 @@
+### Status
+
+Done
+- rough prototype done
+- landing page done: haikuwith.me
+- social media handler: FB page, Twitter, Instagram
+
+Doing
+- Sitemap
+
+Do
+- user persona- power user & novice user
+- user stories
+- MPV epic
+
+
 ### haikuwithme (haikuwith.me)
 Haiku With Me (HWM) is a web app that teaches you how to write haiku poetry.
 
