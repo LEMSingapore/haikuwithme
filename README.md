@@ -12,9 +12,9 @@ Learning & writing haiku will help a coder write better elegant clean code. :)
 
 # One Haiku Poem
 
-old pond
-frog leaps in
-water's sound
+# old pond
+# frog leaps in
+# water's sound
 
 by Basho (1644–1694) who is considered the best haiku poet ever.
 
