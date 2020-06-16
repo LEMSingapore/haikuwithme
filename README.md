@@ -86,7 +86,7 @@ A haiku does not have to rhyme, in fact usually it does not rhyme at all.
 
 It can include the repetition of words or sounds
 
-Steps for Writing a Haiku
+# Steps for Writing a Haiku
 Even though there are specific rules for writing a traditional haiku, the process can still be fun and rewarding. And remember that a modern haiku can be more freeform.
 
 If you are wondering how to write a haiku for the first time, consider the following steps:
@@ -103,7 +103,7 @@ The last line is usually used to make an observation about your subject. It can 
 
 Decide if you want to write using the 5-7-5 rule or branch outside the limits of this pattern. (If you have trouble determining the syllables in a word because you are not sure how to pronounce it, you can look up the word here on YourDictionary for a count of the syllables.)
 
-Examples of Traditional Haiku
+# Examples of Traditional Haiku
 The most famed traditional Japanese poets include Matsuo Basho, Yosa Buson, Kobayashi Issa, and Masoaka Shiki. They are known as "the Great Four" and their work is still the model for traditional haiku writing today.
 
 Let's take a look at two of Matsuo Basho's most famous poems. (Note: The 5-7-5 rhythm has been lost in translation, as not every Japanese word has the same number of syllables, or sounds, as its English version. For example, haiku has two syllables in English. In Japanese, the word has three sounds.)
@@ -126,7 +126,7 @@ Waiting in the marsh,
 The heron stands silently,
 Fish sense death is near.
 
-Examples of Modern Haiku
+# Examples of Modern Haiku
 Now, let's take a look at modern Western haiku. Here are two examples, also by LoveToKnow's Kelly Roper. Notice the difference in style compared to the traditional haiku examples above.
 
 Foul ball
@@ -139,18 +139,17 @@ Sasquatch is on the move.
 
 Although many modern poets don't follow the 5-7-5 pattern, you will still come across a few who remain true to the original form.
 
-Process of Writing a Beautiful Haiku
+# Process of Writing a Beautiful Haiku
 Reading through examples of haiku can help you understand and appreciate haiku before you write one yourself. Reading haiku to children can also help them develop a sense of how to interpret poetry, and begin the process of writing their own simple poems.
 
 Remember to be creative, not only with your use of words but also with your punctuation and word order. A haiku is not designed to read like a sentence, so do not feel bound by normal capitalization and structure rules.
 
 Ref: https://grammar.yourdictionary.com/style-and-usage/rules-for-writing-haiku.html
 
-Teach Kids How to Write Haiku
+# Teach Kids How to Write Haiku
 To teach kids how to write haiku, an educator should begin by explaining what haiku is, how it is constructed, and share examples of this poetry.
 
-how to write a haiku
-Explaining Haiku
+# Explaining Haiku
 Haiku is a form of poetry that began in Japan. Haiku uses the senses to describe scenes from nature, and often involves vivid images of trees, plants, seasons, and other elements of the natural world.
 
 A haiku is comprised of three lines, and a total of 17 syllables, broken up into a five-seven-five rule:
@@ -179,7 +178,7 @@ As they proceed to their second, and longer line of seven syllables, your studen
 
 When they finish their haiku with the third line of five syllables, remind them that this line can be one or two words, and again, that they should aim for simplicity.
 
-Example of a Haiku
+# Example of a Haiku
 To have your students understand and appreciate haiku, you should share with them several examples of this form of poetry. Here is a sample haiku by acclaimed Japanese poet Basho:
 
 An old silent pond...
@@ -190,7 +189,7 @@ Silence again.
 
 You can also share with your class haiku that you or previous students have written, and remind them of the simplicity and beauty of all haiku, regardless of its authoring.
 
-Capture Imagination
+# Capture Imagination
 To teach kids how to write haiku, try to use encouragement, rewards, and to capture their imagination throughout the process. You can do this by beautifully publishing their haiku, and having the student decorate the poem with scenes appropriate to their subject matter.
 
 Here are a few ways that you can "publish" your students' decorated haiku poetry:
