@@ -38,8 +38,11 @@ The update route will redirect back to the quote's show page.
 # Static Pages
 Content on haiku backstory
 
-MVC Model
+# MVC Model
 -placeholder-
 
 Restful Routes (CRUD)
 -placeholder-
+
+# Product Roadmap
+See attached roadmap.png
