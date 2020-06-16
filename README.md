@@ -84,7 +84,8 @@ See attached roadmap.png
 - Google Youtube API Integration
 
 +++
-### Traditional Haiku Structure
+
+# Traditional Haiku Structure
 
 The structure of a traditional haiku is always the same, including the following features:
 
