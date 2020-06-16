@@ -1,6 +1,10 @@
 ### haikuwithme
 Haiku With Me (HWM) is a web app that teaches you how to write haiku and store your haikus online.
 
+What is Haiku?
+Haiku is a style of poetry originated from Japan.
+See: https://en.wikipedia.org/wiki/Haiku
+
 # Tech Stack- Web App with full CRUD using Node.js, Express, EJS and Mongo, deployed to Heroku
 
 # Prerequisites
@@ -32,7 +36,7 @@ The delete route should redirect to the index.
 The update route will redirect back to the quote's show page.
 
 # Static Pages
-Content on haiku
+Content on haiku backstory
 
 MVC Model
 -placeholder-
