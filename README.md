@@ -1,4 +1,4 @@
-### haikuwithme
+### haikuwithme (haikuwith.me)
 Haiku With Me (HWM) is a web app that teaches you how to write haiku poetry.
 
 # What is Haiku?
