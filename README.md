@@ -16,7 +16,7 @@ old pond
 frog leaps in
 water's sound
 
-by Basho who is considered the best haiku poet around.
+by Basho (1644–1694) who is considered the best haiku poet ever.
 
 # Tech Stack- Web App with full CRUD using Node.js, Express, EJS and Mongo, deployed to Heroku
 
