@@ -2,6 +2,16 @@
 
 https://apac-rm.roadmunk.com/publish/00184dd1be81507301b70f0cddc44d6bf305a265
 
+# Create Haiki Problem Statement
+
+- user can choose from a randomised of 6 photos
+- haiku creates a haiku poem of 3 sentences, each of 5-7-5 syllibi
+
+# Create Haiki: Solution Approach
+
+TBA
+
+
 Done
 - rough prototype done
 - landing page done: haikuwith.me
