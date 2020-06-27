@@ -9,8 +9,11 @@ https://apac-rm.roadmunk.com/publish/00184dd1be81507301b70f0cddc44d6bf305a265
 
 # Create Haiki: Solution Approach
 
-TBA
-
+- compile famous haiku as database
+- Assign value to each word (node)
+- Assign numerical value to word linkages
+- Create Randomized haiku based on seed word
+- Ensure word linkages carries a min numerical value
 
 Done
 - rough prototype done
